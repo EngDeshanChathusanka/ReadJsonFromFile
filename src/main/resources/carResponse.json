@@ -1,0 +1,1089 @@
+{
+  "status": {
+    "code": 1,
+    "message": "SUCCESS"
+  },
+  "data": [
+    {
+      "productCode": "CAR",
+      "productKey": "CAR~1",
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "CAR",
+        "name": "Compact - Car",
+        "highlight": "ALMO",
+        "primaryAttribute": "SANFORD INTERNATIONAL AIRPORT",
+        "secondaryAttribute": "SANFORD INTERNATIONAL AIRPORT",
+        "serviceStartDate": "2018-03-20",
+        "serviceEndDate": "2018-03-22",
+        "duration": 2,
+        "durationType": "DAYS",
+        "travelDates": {
+          "startDate": "2018-03-20",
+          "endDate": "2018-03-22"
+        },
+        "travelDuration": {
+          "duration": 2,
+          "durationType": "DAYS"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 161.84,
+        "discount": 0,
+        "priceBeforeDiscount": 161.84,
+        "startTime": "2018-03-20T15:00:00",
+        "endTime": "2018-03-22T15:00:00",
+        "travelTimes": {
+          "startTime": "2018-03-20T15:00:00",
+          "endTime": "2018-03-22T15:00:00"
+        }
+      },
+      "detail": {
+        "make": "Compact",
+        "model": "Car",
+        "className": "Alamo Car Rental",
+        "type": "CCAR",
+        "typeName": "Compact Car",
+        "numberOfCars": 1,
+        "transmissionType": "Automatic",
+        "airConditioned": true,
+        "maxTravellers": 0,
+        "maxBaggage": 0,
+        "doorCount": 4,
+        "minDriverAge": 18,
+        "maxDriverAge": 120,
+        "description": "",
+        "pickupLocations": [
+          {
+            "availStatus": -1,
+            "selected": true,
+            "code": "SFBT71",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "SANC00",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCO000",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCOC40",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          }
+        ],
+        "returnLocations": [
+          {
+            "availStatus": -1,
+            "selected": true,
+            "code": "SFBT71",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "SANC00",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCO000",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCOC40",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          }
+        ],
+        "destination": {
+          "cityCode": "ORL",
+          "cityName": "Orlando ",
+          "countryCode": "US",
+          "countryName": "United States of America",
+          "stateCode": "FL",
+          "stateName": "Florida"
+        },
+        "additionalInfo": {
+          "nonRefundable": false,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:1",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": 0,
+          "cfScore": 0,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 1,
+          "swapItemNo": 0,
+          "promo": false,
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "internal": {
+          "id": 7581,
+          "ref": "2018_ALAMO_V2|CARFLAACR|CARFTAARC|CARFLAAL^"
+        }
+      },
+      "rate": {
+        "discount": 0,
+        "price": 161.84,
+        "priceWithTax": 161.84,
+        "tax": 0,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 0,
+            "servicePaxType": "C",
+            "price": 0
+          }
+        ]
+      },
+      "travellerInfo": {
+        "adult": 1,
+        "child": 0,
+        "infant": 0,
+        "travellers": []
+      },
+      "content": {
+        "image": "Car~Compact.jpg",
+        "description": "Anti Lock Brake System, Power Steering, Airbags, 4 Door with 5 Seats",
+        "location": "/tc_images/CAR/"
+      },
+      "carProduct": {
+        "code": "RENT",
+        "name": "Rental Car",
+        "rate": {
+          "discount": 0,
+          "price": 161.84,
+          "priceWithTax": 161.84,
+          "tax": 0
+        },
+        "supplements": [
+          {
+            "no": 1,
+            "key": "1",
+            "price": 10.64,
+            "name": "Alamo Fees- All Vehicles",
+            "description": "Alamo Fees- All Vehicles",
+            "units": -1,
+            "compulsory": true,
+            "free": false,
+            "includedInPrice": false,
+            "paySupplierDirectly": false,
+            "selected": true
+          }
+        ],
+        "choiceKey": "7581~3694~RENT"
+      }
+    },
+    {
+      "productCode": "CAR",
+      "productKey": "CAR~2",
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "CAR",
+        "name": "Economy - Car",
+        "highlight": "ALMO",
+        "primaryAttribute": "SANFORD INTERNATIONAL AIRPORT",
+        "secondaryAttribute": "SANFORD INTERNATIONAL AIRPORT",
+        "serviceStartDate": "2018-03-20",
+        "serviceEndDate": "2018-03-22",
+        "duration": 2,
+        "durationType": "DAYS",
+        "travelDates": {
+          "startDate": "2018-03-20",
+          "endDate": "2018-03-22"
+        },
+        "travelDuration": {
+          "duration": 2,
+          "durationType": "DAYS"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 161.84,
+        "discount": 0,
+        "priceBeforeDiscount": 161.84,
+        "startTime": "2018-03-20T15:00:00",
+        "endTime": "2018-03-22T15:00:00",
+        "travelTimes": {
+          "startTime": "2018-03-20T15:00:00",
+          "endTime": "2018-03-22T15:00:00"
+        }
+      },
+      "detail": {
+        "make": "Economy",
+        "model": "Car",
+        "className": "Alamo Car Rental",
+        "type": "ECAR",
+        "typeName": "Economy Car",
+        "numberOfCars": 1,
+        "transmissionType": "Automatic",
+        "airConditioned": true,
+        "maxTravellers": 0,
+        "maxBaggage": 0,
+        "doorCount": 2,
+        "minDriverAge": 18,
+        "maxDriverAge": 120,
+        "description": "",
+        "pickupLocations": [
+          {
+            "availStatus": -1,
+            "selected": true,
+            "code": "SFBT71",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "SANC00",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCO000",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCOC40",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          }
+        ],
+        "returnLocations": [
+          {
+            "availStatus": -1,
+            "selected": true,
+            "code": "SFBT71",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "SANC00",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCO000",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCOC40",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          }
+        ],
+        "destination": {
+          "cityCode": "ORL",
+          "cityName": "Orlando ",
+          "countryCode": "US",
+          "countryName": "United States of America",
+          "stateCode": "FL",
+          "stateName": "Florida"
+        },
+        "additionalInfo": {
+          "nonRefundable": false,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:2",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": 0,
+          "cfScore": 0,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 2,
+          "swapItemNo": 0,
+          "promo": false,
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "internal": {
+          "id": 7581,
+          "ref": "2018_ALAMO_V2|CARFLAACR|CARFTAARC|CARFLAAL^"
+        }
+      },
+      "rate": {
+        "discount": 0,
+        "price": 161.84,
+        "priceWithTax": 161.84,
+        "tax": 0,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 0,
+            "servicePaxType": "C",
+            "price": 0
+          }
+        ]
+      },
+      "travellerInfo": {
+        "adult": 1,
+        "child": 0,
+        "infant": 0,
+        "travellers": []
+      },
+      "content": {
+        "image": "Car~Economy.jpg",
+        "description": "Anti Lock Brake System, Power Steering, Airbags, 2 Door with 4 Seats",
+        "location": "/tc_images/CAR/"
+      },
+      "carProduct": {
+        "code": "RENT",
+        "name": "Rental Car",
+        "rate": {
+          "discount": 0,
+          "price": 161.84,
+          "priceWithTax": 161.84,
+          "tax": 0
+        },
+        "supplements": [
+          {
+            "no": 1,
+            "key": "1",
+            "price": 10.64,
+            "name": "Alamo Fees- All Vehicles",
+            "description": "Alamo Fees- All Vehicles",
+            "units": -1,
+            "compulsory": true,
+            "free": false,
+            "includedInPrice": false,
+            "paySupplierDirectly": false,
+            "selected": true
+          }
+        ],
+        "choiceKey": "7581~3714~RENT"
+      }
+    },
+    {
+      "productCode": "CAR",
+      "productKey": "CAR~15",
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "CAR",
+        "name": "Luxury - Car",
+        "highlight": "ALMO",
+        "primaryAttribute": "SANFORD INTERNATIONAL AIRPORT",
+        "secondaryAttribute": "SANFORD INTERNATIONAL AIRPORT",
+        "serviceStartDate": "2018-03-20",
+        "serviceEndDate": "2018-03-22",
+        "duration": 2,
+        "durationType": "DAYS",
+        "travelDates": {
+          "startDate": "2018-03-20",
+          "endDate": "2018-03-22"
+        },
+        "travelDuration": {
+          "duration": 2,
+          "durationType": "DAYS"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 305.84,
+        "discount": 0,
+        "priceBeforeDiscount": 305.84,
+        "startTime": "2018-03-20T15:00:00",
+        "endTime": "2018-03-22T15:00:00",
+        "travelTimes": {
+          "startTime": "2018-03-20T15:00:00",
+          "endTime": "2018-03-22T15:00:00"
+        }
+      },
+      "detail": {
+        "make": "Luxury",
+        "model": "Car",
+        "className": "Alamo Car Rental",
+        "type": "LCAR",
+        "typeName": "Luxury Car",
+        "numberOfCars": 1,
+        "transmissionType": "Automatic",
+        "airConditioned": true,
+        "maxTravellers": 0,
+        "maxBaggage": 0,
+        "doorCount": 4,
+        "minDriverAge": 18,
+        "maxDriverAge": 120,
+        "description": "",
+        "pickupLocations": [
+          {
+            "availStatus": -1,
+            "selected": true,
+            "code": "SFBT71",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "SANC00",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCO000",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCOC40",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          }
+        ],
+        "returnLocations": [
+          {
+            "availStatus": -1,
+            "selected": true,
+            "code": "SFBT71",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "SANC00",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCO000",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCOC40",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          }
+        ],
+        "destination": {
+          "cityCode": "ORL",
+          "cityName": "Orlando ",
+          "countryCode": "US",
+          "countryName": "United States of America",
+          "stateCode": "FL",
+          "stateName": "Florida"
+        },
+        "additionalInfo": {
+          "nonRefundable": false,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:15",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": 0,
+          "cfScore": 0,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 15,
+          "swapItemNo": 0,
+          "promo": false,
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "internal": {
+          "id": 8282,
+          "ref": "2018_ALAMO_V2|CARFLAACR|CARFTAARC|CARFLAAL^_UU"
+        }
+      },
+      "rate": {
+        "discount": 0,
+        "price": 305.84,
+        "priceWithTax": 305.84,
+        "tax": 0,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 0,
+            "servicePaxType": "C",
+            "price": 0
+          }
+        ]
+      },
+      "travellerInfo": {
+        "adult": 1,
+        "child": 0,
+        "infant": 0,
+        "travellers": []
+      },
+      "content": {
+        "image": "Car~Luxury.jpg",
+        "description": "Anti Lock Brake System, Power Steering, Airbags, 4 Door with 5 Seats",
+        "location": "/tc_images/CAR/"
+      },
+      "carProduct": {
+        "code": "RENT",
+        "name": "Rental Car",
+        "rate": {
+          "discount": 0,
+          "price": 305.84,
+          "priceWithTax": 305.84,
+          "tax": 0
+        },
+        "supplements": [
+          {
+            "no": 1,
+            "key": "1",
+            "price": 10.64,
+            "name": "Alamo Fees- All Vehicles",
+            "description": "Alamo Fees- All Vehicles",
+            "units": -1,
+            "compulsory": true,
+            "free": false,
+            "includedInPrice": false,
+            "paySupplierDirectly": false,
+            "selected": true
+          }
+        ],
+        "choiceKey": "8282~3717~RENT"
+      }
+    },
+    {
+      "productCode": "CAR",
+      "productKey": "CAR~19",
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "CAR",
+        "name": "Standard - SUV",
+        "highlight": "ALMO",
+        "primaryAttribute": "SANFORD INTERNATIONAL AIRPORT",
+        "secondaryAttribute": "SANFORD INTERNATIONAL AIRPORT",
+        "serviceStartDate": "2018-03-20",
+        "serviceEndDate": "2018-03-22",
+        "duration": 2,
+        "durationType": "DAYS",
+        "travelDates": {
+          "startDate": "2018-03-20",
+          "endDate": "2018-03-22"
+        },
+        "travelDuration": {
+          "duration": 2,
+          "durationType": "DAYS"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 289.04,
+        "discount": 0,
+        "priceBeforeDiscount": 289.04,
+        "startTime": "2018-03-20T15:00:00",
+        "endTime": "2018-03-22T15:00:00",
+        "travelTimes": {
+          "startTime": "2018-03-20T15:00:00",
+          "endTime": "2018-03-22T15:00:00"
+        }
+      },
+      "detail": {
+        "make": "Standard",
+        "model": "SUV",
+        "className": "Alamo Car Rental",
+        "type": "SFAR",
+        "typeName": "Standard SUV",
+        "numberOfCars": 1,
+        "transmissionType": "Automatic",
+        "airConditioned": true,
+        "maxTravellers": 0,
+        "maxBaggage": 0,
+        "doorCount": 4,
+        "minDriverAge": 18,
+        "maxDriverAge": 120,
+        "description": "",
+        "pickupLocations": [
+          {
+            "availStatus": -1,
+            "selected": true,
+            "code": "SFBT71",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "SANC00",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCO000",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCOC40",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          }
+        ],
+        "returnLocations": [
+          {
+            "availStatus": -1,
+            "selected": true,
+            "code": "SFBT71",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "SANC00",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCO000",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCOC40",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          }
+        ],
+        "destination": {
+          "cityCode": "ORL",
+          "cityName": "Orlando ",
+          "countryCode": "US",
+          "countryName": "United States of America",
+          "stateCode": "FL",
+          "stateName": "Florida"
+        },
+        "additionalInfo": {
+          "nonRefundable": false,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:19",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": 0,
+          "cfScore": 0,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 19,
+          "swapItemNo": 0,
+          "promo": false,
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "internal": {
+          "id": 8282,
+          "ref": "2018_ALAMO_V2|CARFLAACR|CARFTAARC|CARFLAAL^_UU"
+        }
+      },
+      "rate": {
+        "discount": 0,
+        "price": 289.04,
+        "priceWithTax": 289.04,
+        "tax": 0,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 0,
+            "servicePaxType": "C",
+            "price": 0
+          }
+        ]
+      },
+      "travellerInfo": {
+        "adult": 1,
+        "child": 0,
+        "infant": 0,
+        "travellers": []
+      },
+      "content": {
+        "image": "SUV~Standard.jpg",
+        "description": "Anti Lock Brake System, Power Steering, Airbags, 4 Door with 5 Seats",
+        "location": "/tc_images/CAR/"
+      },
+      "carProduct": {
+        "code": "RENT",
+        "name": "Rental Car",
+        "rate": {
+          "discount": 0,
+          "price": 289.04,
+          "priceWithTax": 289.04,
+          "tax": 0
+        },
+        "supplements": [
+          {
+            "no": 1,
+            "key": "1",
+            "price": 10.64,
+            "name": "Alamo Fees- All Vehicles",
+            "description": "Alamo Fees- All Vehicles",
+            "units": -1,
+            "compulsory": true,
+            "free": false,
+            "includedInPrice": false,
+            "paySupplierDirectly": false,
+            "selected": true
+          }
+        ],
+        "choiceKey": "8282~3736~RENT"
+      }
+    },
+    {
+      "productCode": "CAR",
+      "productKey": "CAR~20",
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "CAR",
+        "name": "Mid Size - SUV",
+        "highlight": "ALMO",
+        "primaryAttribute": "SANFORD INTERNATIONAL AIRPORT",
+        "secondaryAttribute": "SANFORD INTERNATIONAL AIRPORT",
+        "serviceStartDate": "2018-03-20",
+        "serviceEndDate": "2018-03-22",
+        "duration": 2,
+        "durationType": "DAYS",
+        "travelDates": {
+          "startDate": "2018-03-20",
+          "endDate": "2018-03-22"
+        },
+        "travelDuration": {
+          "duration": 2,
+          "durationType": "DAYS"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 260.24,
+        "discount": 0,
+        "priceBeforeDiscount": 260.24,
+        "startTime": "2018-03-20T15:00:00",
+        "endTime": "2018-03-22T15:00:00",
+        "travelTimes": {
+          "startTime": "2018-03-20T15:00:00",
+          "endTime": "2018-03-22T15:00:00"
+        }
+      },
+      "detail": {
+        "make": "Mid Size",
+        "model": "SUV",
+        "className": "Alamo Car Rental",
+        "type": "IFAR",
+        "typeName": "Mid Size SUV",
+        "numberOfCars": 1,
+        "transmissionType": "Automatic",
+        "airConditioned": true,
+        "maxTravellers": 0,
+        "maxBaggage": 0,
+        "doorCount": 4,
+        "minDriverAge": 18,
+        "maxDriverAge": 120,
+        "description": "",
+        "pickupLocations": [
+          {
+            "availStatus": -1,
+            "selected": true,
+            "code": "SFBT71",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "SANC00",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCO000",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCOC40",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          }
+        ],
+        "returnLocations": [
+          {
+            "availStatus": -1,
+            "selected": true,
+            "code": "SFBT71",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "SANC00",
+            "name": "SANFORD INTERNATIONAL AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCO000",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          },
+          {
+            "availStatus": -1,
+            "selected": false,
+            "code": "MCOC40",
+            "name": "ORLANDO INT'L AIRPORT",
+            "type": "DEPO",
+            "cityCode": "ORL",
+            "countryCode": "US"
+          }
+        ],
+        "destination": {
+          "cityCode": "ORL",
+          "cityName": "Orlando ",
+          "countryCode": "US",
+          "countryName": "United States of America",
+          "stateCode": "FL",
+          "stateName": "Florida"
+        },
+        "additionalInfo": {
+          "nonRefundable": false,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:20",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": 0,
+          "cfScore": 0,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 20,
+          "swapItemNo": 0,
+          "promo": false,
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "internal": {
+          "id": 8282,
+          "ref": "2018_ALAMO_V2|CARFLAACR|CARFTAARC|CARFLAAL^_UU"
+        }
+      },
+      "rate": {
+        "discount": 0,
+        "price": 260.24,
+        "priceWithTax": 260.24,
+        "tax": 0,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 0,
+            "servicePaxType": "C",
+            "price": 0
+          }
+        ]
+      },
+      "travellerInfo": {
+        "adult": 1,
+        "child": 0,
+        "infant": 0,
+        "travellers": []
+      },
+      "content": {
+        "image": "SUV~MidSize.jpg",
+        "description": "Anti Lock Brake System, Power Steering, Airbags, 4 Door with 5 Seats",
+        "location": "/tc_images/CAR/"
+      },
+      "carProduct": {
+        "code": "RENT",
+        "name": "Rental Car",
+        "rate": {
+          "discount": 0,
+          "price": 260.24,
+          "priceWithTax": 260.24,
+          "tax": 0
+        },
+        "supplements": [
+          {
+            "no": 1,
+            "key": "1",
+            "price": 10.64,
+            "name": "Alamo Fees- All Vehicles",
+            "description": "Alamo Fees- All Vehicles",
+            "units": -1,
+            "compulsory": true,
+            "free": false,
+            "includedInPrice": false,
+            "paySupplierDirectly": false,
+            "selected": true
+          }
+        ],
+        "choiceKey": "8282~3737~RENT"
+      }
+    }
+  ],
+  "version": "v2.0"
+}
